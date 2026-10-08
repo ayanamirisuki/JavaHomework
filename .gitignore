@@ -1,0 +1,20 @@
+# ---------------- IntelliJ IDEA（本机配置，不提交）----------------
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# ---------------- Eclipse / VS Code ----------------
+.classpath
+.project
+.settings/
+.vscode/
+
+# ---------------- 构建输出 ----------------
+target/
+
+# ---------------- 系统 ----------------
+.DS_Store
+Thumbs.db
+*.log
